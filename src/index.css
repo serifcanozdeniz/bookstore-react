@@ -1,4 +1,5 @@
-:root {
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
+root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -13,18 +14,19 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #191970;
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #191970;
 }
 
 body {
   margin: 0;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #00bfff;
+  background-color: #191970;
   overflow-x: hidden;
+  font-family: "Protest Riot", sans-serif;
 }
 
 h1 {
@@ -44,7 +46,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #191970;
 }
 button:focus,
 button:focus-visible {
@@ -57,7 +59,7 @@ button:focus-visible {
     background-color: #191970;
   }
   a:hover {
-    color: #747bff;
+    color: #191970;
   }
   button {
     background-color: #f9f9f9;
@@ -73,11 +75,11 @@ header {
   background-color: #191970;
 }
 footer {
-  background-color: #191970;
+  background-color: #0d6efd;
   margin-top: 60px;
 }
 .active {
-  text-shadow: 0 0 15px #535bf2;
+  text-shadow: 0 0 15px #191970;
   font-weight: bold;
 }
 .card-container {
