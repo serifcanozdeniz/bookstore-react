@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:11318194/wh:true/wi:800",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnikov hayatı"
+    },
+    {
+      "id": 2,
+      "title": "Karanlık Kitaplık",
+      "author": "H.P. Lovecraft",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0001774148001-1.jpg",
+      "year": 1927,
+      "page": 350,
+      "description": "Korku ve gerilim dolu öyküler"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://m.media-amazon.com/images/I/81StSOpmkjL._AC_UF1000,1000_QL80_.jpg",
+      "year": 1949,
+      "page": 328,
+      "description": "Distopik bir gelecekte totaliter bir rejim"
+    },
+    {
+      "id": 4,
+      "title": "Kuzgun",
+      "author": "Edgar Allan Poe",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0000000693179-1.jpg",
+      "year": 1845,
+      "page": 144,
+      "description": "Poe'nun bu şiiri, bir adamın kaybettiği sevgilisi Lenore'un hayaletiyle olan etkileşimini anlatır."
+    },
+    {
+      "id": 5,
+      "title": "Drakula",
+      "author": "Bram Stoker",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0001761825001-1.jpg",
+      "year": 1897,
+      "page": 418,
+      "description": "Vampir mitolojisinin klasik eseri"
+    },
+    {
+      "id": 6,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451621174_9781451621174_hr.jpg",
+      "year": 1961,
+      "page": 453,
+      "description": "II. Dünya Savaşı döneminde geçen absürt bir savaş romanı"
+    },
+    {
+      "id": 7,
+      "title": "İnsan Neyle Yaşar?",
+      "author": "Lev Tolstoy",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:4908579/wh:true/wi:800",
+      "year": 1899,
+      "page": 96,
+      "description": "Yaşamın anlamını sorgulayan bir deneme"
+    },
+    {
+      "id": 8,
+      "title": "Kırmızı Pazartesi",
+      "author": "Gabriel Garcia Marquez",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:11248758/wh:true/wi:800",
+      "year": 1981,
+      "page": 152,
+      "description": "Latin Amerika'nın gerçeküstü edebiyatın ustasından bir roman"
+    },
+    {
+      "id": 9,
+      "title": "Doğu Ekspresinde Cinayet",
+      "author": "Agatha Christie",
+      "image": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wh:true/wi:800",
+      "year": 1934,
+      "page": 256,
+      "description": "Ünlü dedektif Hercule Poirot'nun maceraları"
+    },
+    {
+      "id": 10,
+      "title": "Sherlock Holmes: Baskervilles Köpeği",
+      "author": "Arthur Conan Doyle",
+      "image": "https://i.dr.com.tr/cache/600x600-0/originals/0001694131001-1.jpg",
+      "year": 1902,
+      "page": 320,
+      "description": "Sherlock Holmes ve Dr. Watson, ürkütücü bir lanetin etkisindeki Baskervilles Malikanesi'nde gizemli olayları çözmeye çalışır."
+    },
+    {
+      "id": 11,
+      "title": "Beyazlı Kadın",
+      "author": "Wilkie Collins",
+      "image": "https://www.canyayinlari.com/productimages/119956/original/9789750748622_940.jpg",
+      "year": 1860,
+      "page": 400,
+      "description": "Gizemli bir cinayet, dört kadının hayatını bir araya getirir ve sırların çözülmesine yol açar."
+    },
+    {
+      "id": 12,
+      "title": "The Front",
+      "author": "Patricia Cornwell",
+      "image": "https://r2.1k-cdn.com/sig/size:256/plain/https%3A%2F%2F1k-cdn.com%2Fresimler%2Fkitaplar%2F13199_41934_1630781518.jpg",
+      "year": 2008,
+      "page": 229,
+      "description": "Ana karakterlerin gizem dolu dünyasına dalarken, sürükleyici bir hikayenin içine çekileceksiniz."
+    }
+  ]
+}
